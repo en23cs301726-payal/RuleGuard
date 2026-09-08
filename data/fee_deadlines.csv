@@ -1,0 +1,9 @@
+policy_id,fee_type,academic_year,standard_deadline,extension_deadline,extension_allowed,approval_required,notes
+FEE-11.1,Semester Tuition Fee,2026,2026-08-15,2026-08-20,Yes,Yes,Exceptional extension requires documented reason
+FEE-11.2,Examination Fee,2026,2026-09-10,2026-09-12,Yes,Yes,Late payment may attract administrative charges
+FEE-11.3,Hostel Fee,2026,2026-08-20,2026-08-25,Yes,Yes,Extension depends on approval
+FEE-11.4,Library Renewal Fee,2026,2026-07-31,2026-08-05,No,No,Payment must normally be completed by the standard deadline
+FEE-11.5,Student Activity Fee,2026,2026-08-15,2026-08-20,Yes,Yes,Exceptional extension requires authorization
+FEE-11.6,Semester Tuition Fee,2026,2027-01-15,2027-01-20,Yes,Yes,Applicable to the second academic term
+FEE-11.7,Examination Fee,2026,2027-02-10,2027-02-12,Yes,Yes,Late registration may be restricted
+FEE-11.8,Hostel Fee,2026,2027-01-20,2027-01-25,Yes,Yes,Students should contact the finance office
