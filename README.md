@@ -725,7 +725,7 @@ Possible future improvements include:
 Working demonstration video:
 
 ```text
-https://drive.google.com/file/d/1ee7w8POTPoQLzjP4XN0D8F5Dt5qRcJyG/view?usp=drive_link
+https://drive.google.com/file/d/1ee7w8POTPoQLzjP4XN0D8F5Dt5qRcJyG/view?usp=sharing
 ```
 
 The demonstration should show:
